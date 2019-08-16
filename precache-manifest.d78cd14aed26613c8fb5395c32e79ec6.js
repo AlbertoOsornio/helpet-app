@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4336c8cbca87f845215eb5fd21a7c5c",
+    "revision": "ec473c3dce24c48a8daaa7520aa86755",
     "url": "/helpet-app/index.html"
   },
   {
-    "revision": "9390a95aebc1ed1d8294",
-    "url": "/helpet-app/static/css/main.3c416c06.chunk.css"
+    "revision": "6a4b8863a73c6cd5fb59",
+    "url": "/helpet-app/static/css/main.3aebd33a.chunk.css"
   },
   {
     "revision": "f2cbe6783e3642e623af",
     "url": "/helpet-app/static/js/2.df432480.chunk.js"
   },
   {
-    "revision": "9390a95aebc1ed1d8294",
+    "revision": "6a4b8863a73c6cd5fb59",
     "url": "/helpet-app/static/js/main.27905e73.chunk.js"
   },
   {
